@@ -252,8 +252,9 @@
 
 </div> -->
 
-<button class="teste" (click)="generatePDF()">Generate PDF</button>
+<div class="wrapper">
+    <button class="teste" (click)="generatePDF()">Generate PDF</button>
 
-<button class="teste">Another Button</button>
-
+    <button class="teste" (click)="printPDF()">Print PDF</button>
+</div>
 <router-outlet></router-outlet>
