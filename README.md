@@ -1,8 +1,4 @@
-# PDF Generator
-
-App created to learn how to use pdfmake into a Angular Project.
-
-## Angular Info
+# Teste
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
